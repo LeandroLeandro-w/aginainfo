@@ -1,5 +1,17 @@
 {
-  "players": [],
-  "lastUpdated": "2025-07-25T22:08:24.219Z",
-  "totalPlayers": 0
+  "players": [
+    {
+      "name": "X",
+      "goals": 0,
+      "assists": 0,
+      "wins": 0,
+      "losses": 0,
+      "played": 0,
+      "minutes": 0,
+      "dateAdded": "2025-07-25T22:08:29.220Z",
+      "lastUpdated": "2025-07-25T22:08:29.220Z"
+    }
+  ],
+  "lastUpdated": "2025-07-25T22:08:32.069Z",
+  "totalPlayers": 1
 }
