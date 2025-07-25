@@ -1,17 +1,17 @@
 {
   "players": [
     {
-      "name": "Pedro",
-      "goals": 3,
-      "assists": 0,
-      "wins": 0,
+      "name": "Caca",
+      "goals": 30,
+      "assists": 10,
+      "wins": 5,
       "losses": 0,
-      "played": 0,
-      "minutes": 0,
-      "dateAdded": "2025-07-25T22:12:39.440Z",
-      "lastUpdated": "2025-07-25T22:12:39.440Z"
+      "played": 5,
+      "minutes": 30,
+      "dateAdded": "2025-07-25T22:14:57.033Z",
+      "lastUpdated": "2025-07-25T22:14:57.033Z"
     }
   ],
-  "lastUpdated": "2025-07-25T22:12:42.687Z",
+  "lastUpdated": "2025-07-25T22:15:00.176Z",
   "totalPlayers": 1
 }
