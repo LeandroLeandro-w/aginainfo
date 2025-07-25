@@ -1,17 +1,17 @@
 {
   "players": [
     {
-      "name": "k",
-      "goals": 0,
+      "name": "10IQ",
+      "goals": 5,
       "assists": 0,
-      "wins": 0,
+      "wins": 1,
       "losses": 0,
-      "played": 0,
-      "minutes": 0,
-      "dateAdded": "2025-07-25T22:28:38.850Z",
-      "lastUpdated": "2025-07-25T22:28:38.850Z"
+      "played": 1,
+      "minutes": 4,
+      "dateAdded": "2025-07-25T22:28:58.491Z",
+      "lastUpdated": "2025-07-25T22:28:58.492Z"
     }
   ],
-  "lastUpdated": "2025-07-25T22:28:39.835Z",
+  "lastUpdated": "2025-07-25T22:28:59.778Z",
   "totalPlayers": 1
 }
