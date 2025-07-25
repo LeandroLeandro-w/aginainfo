@@ -43,8 +43,19 @@
       "minutes": 0,
       "dateAdded": "2025-07-25T22:08:38.222Z",
       "lastUpdated": "2025-07-25T22:08:38.222Z"
+    },
+    {
+      "name": "jDJSA",
+      "goals": 0,
+      "assists": -1,
+      "wins": 0,
+      "losses": 0,
+      "played": 0,
+      "minutes": 0,
+      "dateAdded": "2025-07-25T22:09:20.790Z",
+      "lastUpdated": "2025-07-25T22:09:20.790Z"
     }
   ],
-  "lastUpdated": "2025-07-25T22:08:49.375Z",
-  "totalPlayers": 4
+  "lastUpdated": "2025-07-25T22:09:23.858Z",
+  "totalPlayers": 5
 }
